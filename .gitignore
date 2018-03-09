@@ -1,7 +1,7 @@
-/vendor/
+vendor/
 composer.lock
 
 
-/build/
+build/
 *.png
 .DS_Store
