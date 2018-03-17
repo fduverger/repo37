@@ -1,7 +1,8 @@
 vendor/
-composer.lock
-
-
 build/
+node_modules/
+components/
+composer.lock
 *.png
+*.sqlite
 .DS_Store
